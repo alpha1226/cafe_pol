@@ -1,5 +1,10 @@
-# cafe_pol
-branch change<br>
-클라이언트 실행 : kiosk / Main.java<br>
-서버 실행 : server / server.java<br>
-workspac ignore 처리
+# 2학년 1학기 (JAVA) 기말 과제  
+  
+팀 프로젝트(총 2명)  
+  
+19.05.30 ~ 19.06.27  
+  
+JAVA(Swing, Socket), MySQL  
+  
+팀원(wogusv12) - UI/UI디자인 및 구현  
+팀원(alpha1226) - 백엔드개발(Socket, DB)
